@@ -4,7 +4,7 @@
 <b> Team name: </b> cos(π) - Coding of Space <br>
 <b> Professor:</b> M. Cristina Pinho <br>
 <b> Students:</b> <br>
-<ul>
+<ul> 
 <li> David Afonso <br>
 <li> David Dantas <br>
 <li> David Nabeiro <br>
